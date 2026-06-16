@@ -13,3 +13,4 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | Platform | Problem Link | Difficulty | Solution | Time Complexity | Space Complexity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | LeetCode | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟩 Easy | [Java](./Data-Structures/Arrays/TwoSum.java) | O(n) | O(n) |
+| LeetCode | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟩 Easy | [Java](./Data-Structures/Stacks/ValidParentheses.java) | O(n) | O(n) |
