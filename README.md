@@ -19,3 +19,4 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/ReverseLinkedList.java) | O(n) | O(1) |
 | LeetCode | [167. Two Sum II - Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟨 Medium | [Java](./Data-Structures/Arrays/TwoSumTwoSorted.java) | O(n) | O(1) |
 | LeetCode | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ProductOfArrayExceptSelf.java) | O(n) | O(1) |
+| LeetCode | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟨 Medium | [Java](./Data-Structures/Arrays/LongestConsecutiveSequence.java) | O(n) | O(n) |
