@@ -20,3 +20,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [167. Two Sum II - Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟨 Medium | [Java](./Data-Structures/Arrays/TwoSumTwoSorted.java) | O(n) | O(1) |
 | LeetCode | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ProductOfArrayExceptSelf.java) | O(n) | O(1) |
 | LeetCode | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟨 Medium | [Java](./Data-Structures/Arrays/LongestConsecutiveSequence.java) | O(n) | O(n) |
+| LeetCode | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ContainerWithMostWater.java) | O(n) | O(1) |
+| LeetCode | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟨 Medium | [Java](./Data-Structures/Arrays/RotateImage.java) | O(n²) | O(1) |
