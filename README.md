@@ -22,3 +22,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟨 Medium | [Java](./Data-Structures/Arrays/LongestConsecutiveSequence.java) | O(n) | O(n) |
 | LeetCode | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ContainerWithMostWater.java) | O(n) | O(1) |
 | LeetCode | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟨 Medium | [Java](./Data-Structures/Arrays/RotateImage.java) | O(n²) | O(1) |
+| LeetCode | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟨 Medium | [Java](./Data-Structures/Arrays/LongestSubstringWithoutRepeatingCharacters.java) | O(n) | O(min(m, n)) |
+| LeetCode | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ThreeSum.java) | O(n²) | O(log n) |
