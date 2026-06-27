@@ -24,3 +24,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟨 Medium | [Java](./Data-Structures/Arrays/RotateImage.java) | O(n²) | O(1) |
 | LeetCode | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟨 Medium | [Java](./Data-Structures/Arrays/LongestSubstringWithoutRepeatingCharacters.java) | O(n) | O(min(m, n)) |
 | LeetCode | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ThreeSum.java) | O(n²) | O(log n) |
+| LeetCode | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟩 Easy | [Java](./Data-Structures/Arrays/ValidAnagram.java) | O(n) | O(1) |
+| LeetCode | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/MinimumSizeSubarraySum.java) | O(n) | O(1) |
