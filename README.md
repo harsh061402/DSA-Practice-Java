@@ -26,3 +26,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [15. 3Sum](https://leetcode.com/problems/3sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/ThreeSum.java) | O(n²) | O(log n) |
 | LeetCode | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟩 Easy | [Java](./Data-Structures/Arrays/ValidAnagram.java) | O(n) | O(1) |
 | LeetCode | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/MinimumSizeSubarraySum.java) | O(n) | O(1) |
+| LeetCode | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟩 Easy | [Java](./Data-Structures/Arrays/ValidPalindrome.java) | O(n) | O(1) |
+| LeetCode | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SpiralMatrix.java) | O(m * n) | O(1) |
