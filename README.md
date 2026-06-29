@@ -30,3 +30,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SpiralMatrix.java) | O(m * n) | O(1) |
 | LeetCode | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟨 Medium | [Java](./Data-Structures/Arrays/MergeIntervals.java) | O(n log n) | O(log n) |
 | LeetCode | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SubarraySumEqualsK.java) | O(n) | O(n) |
+| LeetCode | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟨 Medium | [Java](./Data-Structures/Arrays/GroupAnagrams.java) | O(n * m log m) | O(n * m) |
+| LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🟥 Hard | [Java](./Data-Structures/Arrays/TrappingRainWater.java) | O(n) | O(1) |   
