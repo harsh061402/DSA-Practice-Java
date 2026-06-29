@@ -28,3 +28,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟨 Medium | [Java](./Data-Structures/Arrays/MinimumSizeSubarraySum.java) | O(n) | O(1) |
 | LeetCode | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟩 Easy | [Java](./Data-Structures/Arrays/ValidPalindrome.java) | O(n) | O(1) |
 | LeetCode | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SpiralMatrix.java) | O(m * n) | O(1) |
+| LeetCode | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟨 Medium | [Java](./Data-Structures/Arrays/MergeIntervals.java) | O(n log n) | O(log n) |
+| LeetCode | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SubarraySumEqualsK.java) | O(n) | O(n) |
