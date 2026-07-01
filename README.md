@@ -32,3 +32,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟨 Medium | [Java](./Data-Structures/Arrays/SubarraySumEqualsK.java) | O(n) | O(n) |
 | LeetCode | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟨 Medium | [Java](./Data-Structures/Arrays/GroupAnagrams.java) | O(n * m log m) | O(n * m) |
 | LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🟥 Hard | [Java](./Data-Structures/Arrays/TrappingRainWater.java) | O(n) | O(1) |   
+| LeetCode | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟨 Medium | [Java](./Data-Structures/Stacks/MinStack.java) | O(1) | O(n) |
+| LeetCode | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟨 Medium | [Java](./Data-Structures/Stacks/EvaluateReversePolishNotation.java) | O(n) | O(n) |
