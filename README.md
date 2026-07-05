@@ -34,3 +34,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🟥 Hard | [Java](./Data-Structures/Arrays/TrappingRainWater.java) | O(n) | O(1) |   
 | LeetCode | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟨 Medium | [Java](./Data-Structures/Stacks/MinStack.java) | O(1) | O(n) |
 | LeetCode | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟨 Medium | [Java](./Data-Structures/Stacks/EvaluateReversePolishNotation.java) | O(n) | O(n) |
+| LeetCode | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟨 Medium | [Java](./Data-Structures/Stacks/DailyTemperatures.java) | O(n) | O(n) |
+| LeetCode | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟨 Medium | [Java](./Data-Structures/Stacks/GenerateParentheses.java) | O(4ⁿ / √n) | O(n) |
