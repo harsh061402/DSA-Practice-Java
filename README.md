@@ -38,3 +38,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟨 Medium | [Java](./Data-Structures/Stacks/GenerateParentheses.java) | O(4ⁿ / √n) | O(n) |
 | LeetCode | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 🟩 Easy | [Java](./Data-Structures/Stacks/ImplementQueueUsingStacks.java) | O(1)* | O(n) |
 | LeetCode | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🟥 Hard | [Java](./Data-Structures/Stacks/LargestRectangleInHistogram.java) | O(n) | O(n) |
+| LeetCode | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/LinkedListCycle.java) | O(n) | O(1) |
+| LeetCode | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/MergeTwoSortedLists.java) | O(n + m) | O(1) |
