@@ -40,3 +40,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🟥 Hard | [Java](./Data-Structures/Stacks/LargestRectangleInHistogram.java) | O(n) | O(n) |
 | LeetCode | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/LinkedListCycle.java) | O(n) | O(1) |
 | LeetCode | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/MergeTwoSortedLists.java) | O(n + m) | O(1) |
+| LeetCode | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/RemoveNthNodeFromEnd.java) | O(n) | O(1) |
+| LeetCode | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/ReorderList.java) | O(n) | O(1) |
