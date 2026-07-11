@@ -42,3 +42,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟩 Easy | [Java](./Data-Structures/LinkedLists/MergeTwoSortedLists.java) | O(n + m) | O(1) |
 | LeetCode | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/RemoveNthNodeFromEnd.java) | O(n) | O(1) |
 | LeetCode | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/ReorderList.java) | O(n) | O(1) |
+| LeetCode | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/CopyListWithRandomPointer.java) | O(n) | O(1) |
+| LeetCode | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟥 Hard | [Java](./Data-Structures/LinkedLists/LRUCache.java) | O(1) | O(capacity) |
