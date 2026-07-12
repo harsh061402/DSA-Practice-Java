@@ -44,3 +44,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/ReorderList.java) | O(n) | O(1) |
 | LeetCode | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟨 Medium | [Java](./Data-Structures/LinkedLists/CopyListWithRandomPointer.java) | O(n) | O(1) |
 | LeetCode | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟥 Hard | [Java](./Data-Structures/LinkedLists/LRUCache.java) | O(1) | O(capacity) |
+| LeetCode | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/InvertBinaryTree.java) | O(n) | O(h) |
+| LeetCode | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/MaximumDepthOfBinaryTree.java) | O(n) | O(h) || LeetCode | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/InvertBinaryTree.java) | O(n) | O(h) |
