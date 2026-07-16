@@ -46,3 +46,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟥 Hard | [Java](./Data-Structures/LinkedLists/LRUCache.java) | O(1) | O(capacity) |
 | LeetCode | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/InvertBinaryTree.java) | O(n) | O(h) |
 | LeetCode | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/MaximumDepthOfBinaryTree.java) | O(n) | O(h) || LeetCode | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/InvertBinaryTree.java) | O(n) | O(h) |
+| LeetCode | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟩 Easy | [Java](./Data-Structures/Trees/DiameterOfBinaryTree.java) | O(n) | O(h) |
+| LeetCode | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 🟨 Medium | [Java](./Data-Structures/Trees/ValidateBinarySearchTree.java) | O(n) | O(h) |
