@@ -52,3 +52,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 🟨 Medium | [Java](./Data-Structures/Trees/LowestCommonAncestor.java) | O(n) | O(h) |
 | LeetCode | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟨 Medium | [Java](./Data-Structures/Trees/ConstructBinaryTreeFromPreorderAndInorder.java) | O(n) | O(n) |
 | LeetCode | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🟥 Hard | [Java](./Data-Structures/Trees/BinaryTreeMaximumPathSum.java) | O(n) | O(h) |
+| LeetCode | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟨 Medium | [Java](./Data-Structures/Graphs/NumberOfIslands.java) | O(M * N) | O(M * N) |
+| LeetCode | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟨 Medium | [Java](./Data-Structures/Graphs/CloneGraph.java) | O(V + E) | O(V) |
