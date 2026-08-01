@@ -54,3 +54,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🟥 Hard | [Java](./Data-Structures/Trees/BinaryTreeMaximumPathSum.java) | O(n) | O(h) |
 | LeetCode | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟨 Medium | [Java](./Data-Structures/Graphs/NumberOfIslands.java) | O(M * N) | O(M * N) |
 | LeetCode | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟨 Medium | [Java](./Data-Structures/Graphs/CloneGraph.java) | O(V + E) | O(V) |
+| LeetCode | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | 🟨 Medium | [Java](./Data-Structures/Graphs/RottingOranges.java) | O(M * N) | O(M * N) |
+| LeetCode | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟨 Medium | [Java](./Data-Structures/Graphs/CourseSchedule.java) | O(V + E) | O(V + E) |
