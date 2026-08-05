@@ -58,3 +58,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟨 Medium | [Java](./Data-Structures/Graphs/CourseSchedule.java) | O(V + E) | O(V + E) |
 | LeetCode | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟨 Medium | [Java](./Data-Structures/Graphs/PacificAtlanticWaterFlow.java) | O(M * N) | O(M * N) |
 | LeetCode | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🟥 Hard | [Java](./Data-Structures/Graphs/WordLadder.java) | O(N * M²) | O(N * M) |
+| LeetCode | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟩 Easy | [Java](./Data-Structures/DynamicProgramming/ClimbingStairs.java) | O(n) | O(1) |
+| LeetCode | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/CoinChange.java) | O(amount * n) | O(amount) |
