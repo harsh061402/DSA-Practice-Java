@@ -60,3 +60,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | 🟥 Hard | [Java](./Data-Structures/Graphs/WordLadder.java) | O(N * M²) | O(N * M) |
 | LeetCode | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟩 Easy | [Java](./Data-Structures/DynamicProgramming/ClimbingStairs.java) | O(n) | O(1) |
 | LeetCode | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/CoinChange.java) | O(amount * n) | O(amount) |
+| LeetCode | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/LongestIncreasingSubsequence.java) | O(n²) | O(n) |
+| LeetCode | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/HouseRobber.java) | O(n) | O(1) |
