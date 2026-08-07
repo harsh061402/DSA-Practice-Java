@@ -62,3 +62,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [322. Coin Change](https://leetcode.com/problems/coin-change/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/CoinChange.java) | O(amount * n) | O(amount) |
 | LeetCode | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/LongestIncreasingSubsequence.java) | O(n²) | O(n) |
 | LeetCode | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/HouseRobber.java) | O(n) | O(1) |
+| LeetCode | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/LongestCommonSubsequence.java) | O(m * n) | O(m * n) |
+| LeetCode | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/PartitionEqualSubsetSum.java) | O(n * target) | O(target) |
