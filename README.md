@@ -64,3 +64,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [198. House Robber](https://leetcode.com/problems/house-robber/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/HouseRobber.java) | O(n) | O(1) |
 | LeetCode | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/LongestCommonSubsequence.java) | O(m * n) | O(m * n) |
 | LeetCode | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | 🟨 Medium | [Java](./Data-Structures/DynamicProgramming/PartitionEqualSubsetSum.java) | O(n * target) | O(target) |
+| LeetCode | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟨 Medium | [Java](./Data-Structures/BinarySearch/SearchInRotatedSortedArray.java) | O(log n) | O(1) |
+| LeetCode | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟨 Medium | [Java](./Data-Structures/BinarySearch/KthLargestElement.java) | O(n log k) | O(k) |
