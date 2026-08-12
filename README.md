@@ -68,3 +68,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟨 Medium | [Java](./Data-Structures/BinarySearch/KthLargestElement.java) | O(n log k) | O(k) |
 | LeetCode | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | 🟨 Medium | [Java](./Data-Structures/Trie/ImplementTrie.java) | O(m) | O(N * m) |
 | LeetCode | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🟥 Hard | [Java](./Data-Structures/Trie/WordSearchII.java) | O(M * N * 4ᴸ) | O(K * L) |
+| LeetCode | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟩 Easy | [Java](./Data-Structures/BitManipulation/SingleNumber.java) | O(n) | O(1) |
+| LeetCode | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟩 Easy | [Java](./Data-Structures/BitManipulation/NumberOf1Bits.java) | O(k) | O(1) |
