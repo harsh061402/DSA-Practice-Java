@@ -70,3 +70,5 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms u
 | LeetCode | [212. Word Search II](https://leetcode.com/problems/word-search-ii/) | 🟥 Hard | [Java](./Data-Structures/Trie/WordSearchII.java) | O(M * N * 4ᴸ) | O(K * L) |
 | LeetCode | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟩 Easy | [Java](./Data-Structures/BitManipulation/SingleNumber.java) | O(n) | O(1) |
 | LeetCode | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟩 Easy | [Java](./Data-Structures/BitManipulation/NumberOf1Bits.java) | O(k) | O(1) |
+| LeetCode | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟨 Medium | [Java](./Data-Structures/Intervals/MergeIntervals.java) | O(n log n) | O(n) |
+| LeetCode | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟨 Medium | [Java](./Data-Structures/Intervals/NonOverlappingIntervals.java) | O(n log n) | O(1) |
